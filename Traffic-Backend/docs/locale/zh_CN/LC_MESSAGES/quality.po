@@ -1,0 +1,124 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) 2021, Qing Yu
+# This file is distributed under the same license as the TransBigData
+# package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2022.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: TransBigData 0.3.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-06-06 09:50+0800\n"
+"PO-Revision-Date: 2023-06-05 16:51+0800\n"
+"Last-Translator: \n"
+"Language: zh_CN\n"
+"Language-Team: \n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.12.1\n"
+
+#: ../../source/quality.rst:7
+msgid "数据质量分析"
+msgstr "数据质量分析"
+
+#: ../../source/quality.rst:15:<autosummary>:1
+msgid ""
+":py:obj:`data_summary <transbigdata.data_summary>`\\ \\(data\\[\\, col\\,"
+" ...\\]\\)"
+msgstr ""
+
+#: ../../source/quality.rst:15:<autosummary>:1 of
+#: transbigdata.quality.data_summary:2
+msgid "Output the general information of the dataset."
+msgstr "输出数据集的一般信息。"
+
+#: ../../source/quality.rst:15:<autosummary>:1
+msgid ""
+":py:obj:`sample_duration <transbigdata.sample_duration>`\\ \\(data\\[\\, "
+"col\\]\\)"
+msgstr ""
+
+#: ../../source/quality.rst:15:<autosummary>:1 of
+#: transbigdata.quality.sample_duration:2
+msgid "Calculate the data sampling interval."
+msgstr "计算数据采样间隔。"
+
+#: of transbigdata.quality.data_summary transbigdata.quality.sample_duration
+msgid "Parameters"
+msgstr ""
+
+#: of transbigdata.quality.data_summary:4
+msgid "The trajectory points data"
+msgstr "轨迹点数据"
+
+#: of transbigdata.quality.data_summary:6
+#: transbigdata.quality.sample_duration:6
+msgid "The column name, in the order of [‘Vehicleid’, ‘Time’]"
+msgstr "列名，顺序为[‘Vehicleid’, ‘Time’]"
+
+#: of transbigdata.quality.data_summary:8
+msgid "Whether to output individual sampling interval"
+msgstr "是否输出个别采样间隔"
+
+#: of transbigdata.quality.data_summary:10
+msgid "Number of decimal places"
+msgstr "小数位数"
+
+#: of transbigdata.quality.sample_duration:4
+msgid "Data"
+msgstr "数据"
+
+#: of transbigdata.quality.sample_duration
+msgid "Returns"
+msgstr ""
+
+#: of transbigdata.quality.sample_duration:9
+msgid ""
+"**sample_duration** -- A Series with the column name duration, the "
+"content is the sampling interval of the data, in seconds"
+msgstr "**sample_duration** -- 列名持续时间的序列，内容是数据的采样间隔，以秒为单位"
+
+#: of transbigdata.quality.sample_duration
+msgid "Return type"
+msgstr ""
+
+#~ msgid ""
+#~ ":py:obj:`data_summary <transbigdata.data_summary>`\\ "
+#~ "\\(data\\[\\, col\\, ...\\]\\)"
+#~ msgstr ""
+
+#~ msgid ""
+#~ ":py:obj:`sample_duration <transbigdata.sample_duration>`\\ "
+#~ "\\(data\\[\\, col\\]\\)"
+#~ msgstr ""
+
+#~ msgid "参数"
+#~ msgstr ""
+
+#~ msgid "返回"
+#~ msgstr ""
+
+#~ msgid "返回类型"
+#~ msgstr ""
+
+#~ msgid ""
+#~ ":obj:`data_summary <transbigdata.data_summary>`\\ "
+#~ "\\(data\\[\\, col\\, ...\\]\\)"
+#~ msgstr ""
+
+#~ msgid ""
+#~ ":obj:`sample_duration <transbigdata.sample_duration>`\\ "
+#~ "\\(data\\[\\, col\\]\\)"
+#~ msgstr ""
+
+#~ msgid "Parameters"
+#~ msgstr ""
+
+#~ msgid "Returns"
+#~ msgstr ""
+
+#~ msgid "Return type"
+#~ msgstr ""
+
